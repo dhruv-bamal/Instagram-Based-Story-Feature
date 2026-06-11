@@ -71,3 +71,10 @@ types/        Story model and constants (TTL, storage key, max dimensions)
 - Data is per-browser and per-device — there is no sync. Clearing site data removes all stories.
 - Storage is bounded by the browser's `localStorage` quota (~5 MB). For larger volumes a
   production version would move to IndexedDB.
+
+
+## Author
+ 
+**Dhruv Bamal**
+ 
+- GitHub: [@dhurv-bamal](https://github.com/dhurv-bamal)
